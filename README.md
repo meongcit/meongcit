@@ -1,2 +1,0 @@
-- 👋 Hi, I’m @meongcit
-- 👀 I’m interested in Stepeng
